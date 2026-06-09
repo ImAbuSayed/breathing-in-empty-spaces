@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathing-in-empty-spaces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Breathing In Empty Spaces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-in-empty-spaces/) |
+| **Get License** | [Music Rights & Licensing for Breathing In Empty Spaces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-in-empty-spaces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit b5feeb050dd01f4dcb78b220989e4a8d4798656a
+> Lost in the glow of a faded porch light
+> Waiting for your shadow to step through the night
+> Every breath I take is calling your name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
