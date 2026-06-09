@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathing-in-empty-spaces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Breathing In Empty Spaces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-in-empty-spaces/) |
+| **Get License** | [License this song: Breathing In Empty Spaces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-in-empty-spaces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `73bfbc468aff6098f30d62a155d5e0576813b8adc923ea3444aff7f88ff79f86` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
